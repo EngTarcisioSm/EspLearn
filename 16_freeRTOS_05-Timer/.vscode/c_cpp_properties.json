@@ -68,7 +68,8 @@
                 "${IDF_PATH}/components/bt/host/nimble/nimble/nimble/host/util/include",
                 "${IDF_PATH}/components/bt/host/nimble/port/include",
                 "${IDF_PATH}/components/bt/host/nimble/nimble/nimble/host/services/gap/include",
-                "${IDF_PATH}/components/bt/host/nimble/nimble/nimble/host/services/gatt/include"
+                "${IDF_PATH}/components/bt/host/nimble/nimble/nimble/host/services/gatt/include",
+                "C:/MinGW/lib/gcc/mingw32/8.2.0/include"
             ],
             "defines": [],
             "cStandard": "c11",
